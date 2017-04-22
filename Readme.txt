@@ -12,6 +12,6 @@ Installation:
 
 Run Description:
 1. Ensure you have bmi.jl in the directory.
-2. type "julia bmi.jl"
-3. The code should be running. 
+2. type 'julia bmi.jl'
+
 
