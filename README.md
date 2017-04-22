@@ -1,11 +1,16 @@
-# Mini-Ebay-Python-sqlite
+# BMI Calculator
+Name: Tyler Crabtree
+Email: Crabtree.tyler@gmail.com
 
-## Imports (commands for Debian distrobution) 
+## Description:
+Very simple Julia program that takes user input and calculates a person's body mass index (bmi).
 
-1. sudo apt-get install python 
-2. sudo apt-get install python-webpy
+### Installation: 
+1. For Debian based systems type "sudo apt-get install julia"
+2. For non-Debian systems please refer to the web for julia's installation or email me.
 
-### Run Description
-1. Open terminal.
-2. type 'python miniEbay.pyc'
-3. This will return a URL, copy this into a web browser and enjoy.  
+### Run Description:
+1. Ensure you have bmi.jl in the directory.
+2. Type 'julia bmi.jl'
+
+
